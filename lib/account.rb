@@ -24,9 +24,4 @@ class Account
     transactions.print_statement
   end
 
-
-
-
-
-
 end
